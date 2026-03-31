@@ -1,0 +1,87 @@
+TO: admin@example.com
+SUBJECT: Подтверждение регистрации на TechPulse
+
+Здравствуйте, admin!
+
+Для подтверждения регистрации перейдите по ссылке:
+http://techpulse/verify.php?token=3807290741a57aa0482348ec9940792693edcabf0bd0c7cfa3619d2d5fcd9a33
+
+Если вы не регистрировались — проигнорируйте это письмо.
+
+---
+TO: bobaaa910@gmail.com
+SUBJECT: Подтверждение регистрации на TechPulse
+
+Здравствуйте, admin1!
+
+Для подтверждения регистрации перейдите по ссылке:
+http://techpulse/verify.php?token=1684b3928ed4f4c36ad130b6af73a58a0bca45ed318ea0cc8ba6e7c49205bcfe
+
+Если вы не регистрировались — проигнорируйте это письмо.
+
+---
+TO: OlegTarasov88@yandex.ru
+SUBJECT: Подтверждение регистрации на TechPulse
+
+Здравствуйте, 123123!
+
+Для подтверждения регистрации перейдите по ссылке:
+http://techpulse/verify.php?token=ff788ff586203848c87df0aa901afc8b2e844e61ba475ad9b3fc28245b2e6b35
+
+Если вы не регистрировались — проигнорируйте это письмо.
+
+---
+[2026-03-31 15:03:20]
+TO: zarilgo0@gmail.com
+SUBJECT: Подтверждение регистрации на TechPulse
+Здравствуйте, admin!
+
+Для подтверждения регистрации перейдите по ссылке:
+http://techpulse/verify.php?token=98964a39771b0b7cd1553991b5fa2425d4e916c697602417d187b12f12457144
+
+Если вы не регистрировались — проигнорируйте это письмо.
+---
+
+[2026-03-31 15:03:20]
+TO: zarilgo0@gmail.com
+SUBJECT: [ОШИБКА]
+The following From address failed: noreply@techpulse.local : MAIL FROM command failed,not local sender over smtp
+,550, SMTP server error: MAIL FROM command failed Detail: not local sender over smtp
+ SMTP code: 550 SMTP server error: MAIL FROM command failed Detail: not local sender over smtp
+ SMTP code: 550
+---
+
+[2026-03-31 15:18:32]
+TO: bobaaa910@gmail.com
+SUBJECT: Подтверждение регистрации на TechPulse
+Здравствуйте, admin!
+
+Для подтверждения регистрации перейдите по ссылке:
+http://techpulse/verify.php?token=81085581249780dba42a6bdf459a6c0630cab4efd91f3cc22cc4945cce229266
+
+Если вы не регистрировались — проигнорируйте это письмо.
+---
+
+[2026-03-31 15:18:33]
+TO: bobaaa910@gmail.com
+SUBJECT: [OK] Письмо отправлено
+
+---
+
+[2026-03-31 16:09:35]
+TO: zarilgo0@gmail.com
+SUBJECT: Подтверждение регистрации на TechPulse
+Здравствуйте, admin2!
+
+Для подтверждения регистрации перейдите по ссылке:
+http://techpulse/verify.php?token=b405231cb63ec252dab2f2f563e0ec46c06db5103f0b840168d71c6cd02ead9a
+
+Если вы не регистрировались — проигнорируйте это письмо.
+---
+
+[2026-03-31 16:09:36]
+TO: zarilgo0@gmail.com
+SUBJECT: [OK] Письмо отправлено
+
+---
+
